@@ -17,7 +17,14 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 -  Handling button clicks (`onButtonClick()` function)  
 -  Win condition logic implementation (`win()` function)  
 - Disabling buttons after game ends and resetting the game  
--  Adding bounce animation & correcting logic bugs  
+-  Adding bounce animation & correcting logic bugs
+
+
+
+##pictures
+![Alt text](tictactoeapp.png)
+
+
 
 ## Requirements
 
