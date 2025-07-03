@@ -20,12 +20,6 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 -  Adding bounce animation & correcting logic bugs
 
 
-
-##pictures
-![Alt text](tictactoeapp.png)
-
-
-
 ## Requirements
 
 - Android Studio 
