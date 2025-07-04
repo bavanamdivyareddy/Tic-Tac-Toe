@@ -4,8 +4,7 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 
 ##  Features
 
-- Classic Tic Tac Toe gameplay (Player vs Player)
-- <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300"/>
+- Classic Tic Tac Toe gameplay (Player vs Player) <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300"/>
 - Interactive UI with responsive buttons
 - automatically switches between 'X' AND 'O'
 - Win detection logic
