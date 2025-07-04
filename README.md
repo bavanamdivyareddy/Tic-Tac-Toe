@@ -4,7 +4,9 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 
 ##  Features
 <div style="display: flex; align-items: center;">
-  <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" alt="Description" width="200" style="margin-right: 20px;">
+  <p style="margin-right: 20px;">Your descriptive text here next to the image.</p>
+  <img src="images/your-image.png" alt="Description" width="300">
+
 
 - Classic Tic Tac Toe gameplay (Player vs Player) <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300"/>
 - Interactive UI with responsive buttons
