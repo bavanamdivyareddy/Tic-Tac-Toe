@@ -22,7 +22,7 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 </table>
 
 <script>
-  // List of image URLs
+  // List of image URLs based on your files
   const images = [
     'images/Screenshot_20250704_065000.png',
     'images/Screenshot_20250704_065603.png',
