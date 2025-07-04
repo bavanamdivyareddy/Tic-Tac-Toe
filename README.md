@@ -3,6 +3,8 @@
 A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This project demonstrates the fundamentals of Android development including layout design, button interactions, game logic, and animation effects. This app allows two local players to play the classic game on a single device with win ,draw recognition and replay functionality.
 
 ##  Features
+<div style="display: flex; align-items: center;">
+  <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" alt="Description" width="200" style="margin-right: 20px;">
 
 - Classic Tic Tac Toe gameplay (Player vs Player) <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300"/>
 - Interactive UI with responsive buttons
@@ -10,7 +12,7 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
 - Win detection logic
 - Game reset functionality
 - Bounce animation effect for buttons
-
+</div>
 ## Project Structure
  
 - Layout design using XML  
