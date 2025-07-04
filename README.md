@@ -17,7 +17,7 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
     </td>
     <td style="vertical-align: top; width: 50%;">
       <!-- Replace the src with your GIF path -->
-      <img src="images/img.gif" alt="Game Animation" width="300" style="display: block;">
+      <img src="images/imgs.gif" alt="Game Animation" width="300" style="display: block;">
     </td>
   </tr>
 </table>
