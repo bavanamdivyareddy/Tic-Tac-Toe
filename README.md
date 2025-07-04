@@ -16,31 +16,10 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
       </ul>
     </td>
     <td style="vertical-align: top; width: 50%;">
-      <img id="dynamicImage" src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300" style="display: block;">
+      <img src="images/Screenshot_20250704_065000.png" alt="Screenshot" width="300" style="display: block;">
     </td>
   </tr>
 </table>
-
-<script>
-  // List of image URLs based on your files
-  const images = [
-    'images/Screenshot_20250704_065000.png',
-    'images/Screenshot_20250704_065603.png',
-    'images/Screenshot_20250704_065704.png'
-  ];
-
-  let currentIndex = 0;
-  const imgElement = document.getElementById('dynamicImage');
-
-  // Function to change image
-  function changeImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    imgElement.src = images[currentIndex];
-  }
-
-  // Change image every 1 second
-  setInterval(changeImage, 1000);
-</script>
 ## Project Structure
  
 - Layout design using XML  
