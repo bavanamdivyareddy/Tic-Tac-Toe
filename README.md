@@ -21,6 +21,7 @@ A simple Tic Tac Toe game built using **Kotlin** in **Android Studio**. This pro
     </td>
   </tr>
 </table>
+
 ## Project Structure
  
 - Layout design using XML  
